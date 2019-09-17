@@ -1,0 +1,3 @@
+[submodule "userspice4"]
+	path = userspice4
+	url = http://github.com/mudmin/userspice4.git
